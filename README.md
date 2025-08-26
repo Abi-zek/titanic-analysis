@@ -1,6 +1,6 @@
 # Titanic Data Analysis 🚢
 
-This project demonstrates basic **data analysis & visualization** skills using Python.
+This project demonstrates **data analysis, SQL-style queries, and visualization** skills using Python.
 
 ### Tech stack
 - Python (pandas, seaborn, matplotlib)
@@ -12,7 +12,12 @@ This project demonstrates basic **data analysis & visualization** skills using P
    - Overall survival rate
    - Survival by gender
    - Survival by class
-3. Visualizations:
+3. **SQL-style analysis with pandas**
+   - Passenger count by gender
+   - Average age by passenger class
+   - Children survivors (age < 18)
+   - Survival rate grouped by class & gender
+4. Visualizations:
    - Survival count by gender
    - Survival rate by class
    - Age distribution

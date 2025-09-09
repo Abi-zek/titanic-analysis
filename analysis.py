@@ -1,7 +1,7 @@
 # analysis.py
 """
 Titanic Dataset Analysis with SQL-style Queries
-Author: Your Name
+Author: Abizek
 Description: Data exploration, visualization, and SQL-style queries on Titanic dataset.
 """
 
